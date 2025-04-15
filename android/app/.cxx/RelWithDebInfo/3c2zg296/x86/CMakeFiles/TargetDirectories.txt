@@ -1,0 +1,2 @@
+D:/Ev_Link/android/app/.cxx/RelWithDebInfo/3c2zg296/x86/CMakeFiles/edit_cache.dir
+D:/Ev_Link/android/app/.cxx/RelWithDebInfo/3c2zg296/x86/CMakeFiles/rebuild_cache.dir
